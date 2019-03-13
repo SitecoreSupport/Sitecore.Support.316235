@@ -1,7 +1,8 @@
-﻿using Sitecore.Cintel.Commons;
-
-namespace Sitecore.Cintel.Configuration
+﻿namespace Sitecore.Support.Cintel.Configuration
 {
+  using Sitecore.Cintel.Commons;
+  using Sitecore.Cintel.Configuration;
+
   /// <summary>
   /// Holds notification messages used in reports
   /// </summary>
